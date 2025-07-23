@@ -22,5 +22,8 @@ Larger, newer properties in high-demand regions are consistently valued higher.
 
 ## Files
 Danish_Real_Estate_Market_Analysis.ipynb
+Click here to view the dashboard: https://public.tableau.com/app/profile/fangyan.xu/viz/Danish_House_Price/Dashboard1?publish=yes
+
+
 
 
